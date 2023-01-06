@@ -1,0 +1,56 @@
+/*
+#000000 negro
+#FFFFFF blanco
+#FA5858 rojo
+#F2F5A9 amarillo
+#A9F5A9 verde
+#A9F5F2 cyan
+#A9A9F5 morado
+#F5A9F2 rosa
+
+*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#caja1{
+	width: 100%;
+	height: 200px;
+	background: #F2F5A9;
+	text-align: center;
+
+}
+#caja2{
+	width: 50%;
+	height: 400px;
+	background: #FA5858;
+	float: left;
+	text-align: center;
+}
+#caja3{
+	width: 50%;
+	height: 400px;
+	background: #A9F5A9;
+	float: right;
+	text-align: center;
+}
+#caja4{
+	width: 70%;
+	height: 400px;
+	background: #A9F5F2;
+	float: left;
+	text-align: center;
+}
+#caja5{
+	width: 30%;
+	height: 800px;
+	background: #A9A9F5;
+	float: 	right;
+	text-align: center;
+}
+#caja6{
+	width: 100%;
+	height: 300px;
+	background: #F5A9F2;
+	text-align: center;
+}
